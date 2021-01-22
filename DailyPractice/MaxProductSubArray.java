@@ -1,5 +1,6 @@
 //152. Maximum Product Subarray
 //https://leetcode.com/problems/maximum-product-subarray/
+//O(n) solution
 
 public class MaxProductSubArray {
         public int maxProduct(int[] nums) {

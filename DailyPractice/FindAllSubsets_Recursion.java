@@ -13,7 +13,7 @@ public class FindAllSubsets_Recursion {
         System.out.println(list);
 
     }
-    
+
     private static void backTrack(List<List<Integer>> list, ArrayList<Integer>  subset, int[] nums, int start) {
         list.add(new ArrayList<>(subset));
         for(int i=start;i<nums.length;i++){
