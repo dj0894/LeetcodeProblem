@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2d982e7-7cda-4ad0-8b39-c101a7e99292" name="Default Changelist" comment="" />
+    <list default="true" id="09e71fc2-182b-4726-b97a-8879ba775306" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +16,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1nLLIvVl22WVPnUlsPItTwz1o6u" />
+  <component name="ProjectId" id="1pauuMUcg7OrMkH56rMPBoWoFEE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +27,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="SvnConfiguration">
@@ -39,18 +34,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2d982e7-7cda-4ad0-8b39-c101a7e99292" name="Default Changelist" comment="" />
-      <created>1611164347527</created>
+      <changelist id="09e71fc2-182b-4726-b97a-8879ba775306" name="Default Changelist" comment="" />
+      <created>1615433743049</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611164347527</updated>
+      <updated>1615433743049</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="97" y="58" key="new project wizard" timestamp="1611164396915">
-      <screen x="0" y="23" width="1440" height="828" />
-    </state>
-    <state x="97" y="58" key="new project wizard/0.23.1440.828@0.23.1440.828" timestamp="1611164396915" />
   </component>
 </project>

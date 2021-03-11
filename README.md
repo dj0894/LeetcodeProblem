@@ -1,2 +1,0 @@
-# LeetcodeProblem
-LeetCode Problem Practise
